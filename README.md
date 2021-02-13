@@ -37,7 +37,6 @@ pip install -r requirements.txt
 
 ## Screenshots
 
-![Example screenshot](img/02.png)<br>
+![Example screenshot](Output_img.png)<br>
 
-![Example screenshot](img/03.png)<br>
 
