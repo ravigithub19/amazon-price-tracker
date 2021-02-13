@@ -12,6 +12,14 @@
 * Selenium
 * requests
 
+## To install modules/packages
+
+```buildoutcfg
+> pip install beautifulsoup4
+> pip install requests
+> pip install -U selenium
+```
+
 ## Initial Setup Instructions
 
 Make sure to download correct chromedriver - https://chromedriver.chromium.org/downloads
