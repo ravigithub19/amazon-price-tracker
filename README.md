@@ -36,4 +36,4 @@ py amazon_price_tracker.py
 ```
 
 ## Status
-> In Progress
+- In Progress
