@@ -32,7 +32,7 @@ pip install -r requirements.txt
 ## Running Script
 
 ```buildoutcfg
-py amazon_price_tracker.py
+> py amazon_price_tracker.py
 ```
 
 ## Status
