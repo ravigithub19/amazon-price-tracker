@@ -1,6 +1,5 @@
 ## Amazon Price Tracker
 
-## About
 > Developed an automated Amazon Price Tracker using Python by scraping the price details in the form of JSON.
 - Get Link to Website with Items
 - Get Items Links
@@ -9,7 +8,7 @@
 
 ## Modules/Packages
 * bs4
-* Selenium
+* selenium
 * requests
 
 ## To install modules/packages
