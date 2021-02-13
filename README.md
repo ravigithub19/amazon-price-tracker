@@ -35,5 +35,9 @@ pip install -r requirements.txt
 > py amazon_price_tracker.py
 ```
 
-## Status
-- In Progress
+## Screenshots
+
+![Example screenshot](img/02.png)<br>
+
+![Example screenshot](img/03.png)<br>
+
