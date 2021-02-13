@@ -35,7 +35,7 @@ pip install -r requirements.txt
 > py amazon_price_tracker.py
 ```
 
-## Screenshots
+## Output
 
 ![Example screenshot](Output_img.png)<br>
 
